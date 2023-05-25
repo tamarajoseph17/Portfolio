@@ -66,16 +66,16 @@ p{
 }
 
 @media (max-width: 576px) {
-h1{
+    h1{
     font-size: 70px;
     text-align: center;
 }
 
-      .nav-link {
+    .nav-link {
     font-size: 5px;
-padding: 5px;}
+    padding: 5px;}
 
-.title-pic{
+    .title-pic{
     text-align: center;
     font-size: 30px;
 }
